@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### I'm Abdul Fattah Ikhsan
+
+I'm a software engineer at Wallex Technologies Pte Ltd. I'm correspondingly a freelance web developer and a course instructor. Nowadays, I live in Bekasi Regency, Indonesia. My interests range from technology to programming. They have become hobbies. Other hobbies are houseplants, entrepreneurship, and reading. If you want to get in touch, feel free to say hello through one of the social links below:
+- [instagram](https://www.instagram.com/ikhsan_dev/)
+- [twitter](https://twitter.com/abdfattahikhsan/)
+- [telegram](https://t.me/ikhsaan/)
+
+**PS:**
+- 😄 My nickname is Ikhsan or Mas Ikhsan
+- 💬 Let's discuss some ideas
+- 👯 Let's make collaboration
+
 <!--
 **ikhsanalatsary/ikhsanalatsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
