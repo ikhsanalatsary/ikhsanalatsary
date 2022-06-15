@@ -8,7 +8,7 @@ I'm a software engineer at Wallex Technologies Pte Ltd. I'm also a freelance web
 - [telegram](https://t.me/ikhsaan/)
 
 **PS:**
-- 😄 My nickname is Ikhsan or Mas Ikhsan.
+- 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
 - 💬 Let's discuss some ideas.
 - 👯 Let's make collaboration.
 
