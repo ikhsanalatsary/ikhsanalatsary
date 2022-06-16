@@ -2,7 +2,7 @@
 
 #### I'm Abdul Fattah Ikhsan
 
-I'm a software engineer at Wallex Technologies Pte Ltd. I'm also a freelance web developer and a course instructor. Currently, I live in Bekasi Regency, Indonesia. My interests range from technology to programming. They've become hobbies. Other hobbies are houseplants, entrepreneurship, and reading. If you want to get in touch, feel free to say hello through one of the social links below:
+I'm a software engineer at Wallex Technologies Pte Ltd. I'm also a freelance web developer and a course instructor. Currently, I live in Bekasi Regency, Indonesia. My interests range from technology to programming. They've become hobbies. Other hobbies are houseplants, entrepreneurship, and reading. If you want to get in touch, feel free to say hi through one of the social links below:
 - [instagram](https://www.instagram.com/ikhsan_dev/)
 - [twitter](https://twitter.com/abdfattahikhsan/)
 - [telegram](https://t.me/ikhsaan/)
