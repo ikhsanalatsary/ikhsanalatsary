@@ -4,11 +4,11 @@
 
 I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia/). I'm also a freelance web developer and a course instructor. Currently, I live in Bekasi Regency, Indonesia. My interests range from technology to programming. They've become hobbies. Other hobbies are houseplants, entrepreneurship, and reading. If you want to get in touch, feel free to say hi through one of the social links below:
 
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:jm5vsisll@mozmail.com?subject=Hi%20there)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-fattah-ikhsan/)
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/ikhsaan)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/abdfattahikhsan/)
+[![Gmail](https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:jm5vsisll@mozmail.com?subject=Hi%20there)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-fattah-ikhsan/)
+[![Telegram](https://img.shields.io/static/v1?style=flat-square&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/ikhsaan)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
+[![Twitter](https://img.shields.io/static/v1?style=flat-square&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/abdfattahikhsan/)
 
 **PS:**
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
