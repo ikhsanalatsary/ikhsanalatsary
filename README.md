@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsanalatsary&show_icons=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsanalatsary&show_icons=true&count_private=true&langs_count=10&layout=compact&exclude_repo=react-boilerplate,pelajaran-dasar-agama-islam,belajar-git,try-react,isyana"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikhsanalatsary&show_icons=true&count_private=true"/>
