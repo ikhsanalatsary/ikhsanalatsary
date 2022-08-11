@@ -17,7 +17,7 @@ I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 
 **PPS:**
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdfattahikhsan)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=000000&color=FFFFFF)](https://medium.com/@abdfattahikhsan)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)](https://ikhsan.dev)
 
 <!--
