@@ -10,12 +10,12 @@ I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
 [![Twitter](https://img.shields.io/static/v1?style=flat-square&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/abdfattahikhsan/)
 
-**PS:**
+### PS:
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
 - 💬 Let's discuss some ideas.
 - 👯 Let's make collaboration.
 
-**PPS:**
+### PPS:
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=000000&color=FFFFFF)](https://medium.com/@abdfattahikhsan)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)](https://ikhsan.dev)
