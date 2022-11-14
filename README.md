@@ -38,3 +38,26 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsanalatsary&show_icons=true&count_private=true&langs_count=10&layout=compact&exclude_repo=react-boilerplate,pelajaran-dasar-agama-islam,belajar-git,try-react,isyana"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikhsanalatsary&show_icons=true&count_private=true"/>
+
+```geojson
+{
+		"type": "FeatureCollection",
+		"features": [
+			{
+				"type": "Feature",
+				"geometry": {
+					"type": "Point",
+					"coordinates": [
+						106.9033362,
+						-6.2845348
+					]
+				},
+				"properties": {
+					"provinsi": "Jawa Barat",
+					"kabupaten": "Kabupaten Bekasi",
+					"kota": "Bekasi"
+				}
+			}
+    ]
+}
+```
