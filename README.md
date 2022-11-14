@@ -39,21 +39,50 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikhsanalatsary&show_icons=true&count_private=true"/>
 
+#### Area
+
 ```geojson
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "provinsi": "Jawa Barat",
-        "kabupaten": "Kabupaten Bekasi",
-        "kota": "Bekasi"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
-          106.99207584868708,
-          -6.233833984621157
+          [
+            [
+              106.9939905403109,
+              -6.2348633233540625
+            ],
+            [
+              107.06201646636981,
+              -6.2348633233540625
+            ],
+            [
+              107.06201646636981,
+              -6.163030292547717
+            ],
+            [
+              106.9939905403109,
+              -6.163030292547717
+            ],
+            [
+              106.9939905403109,
+              -6.2348633233540625
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          107.0270358274326,
+          -6.179545744895151
         ],
         "type": "Point"
       }
