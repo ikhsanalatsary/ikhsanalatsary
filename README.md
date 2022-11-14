@@ -41,23 +41,23 @@ Here are some ideas to get you started:
 
 ```geojson
 {
-		"type": "FeatureCollection",
-		"features": [
-			{
-				"type": "Feature",
-				"geometry": {
-					"type": "Point",
-					"coordinates": [
-						106.9033362,
-						-6.2845348
-					]
-				},
-				"properties": {
-					"provinsi": "Jawa Barat",
-					"kabupaten": "Kabupaten Bekasi",
-					"kota": "Bekasi"
-				}
-			}
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Jawa Barat",
+        "kabupaten": "Kabupaten Bekasi",
+        "kota": "Bekasi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.99207584868708,
+          -6.233833984621157
+        ],
+        "type": "Point"
+      }
+    }
+  ]
 }
 ```
