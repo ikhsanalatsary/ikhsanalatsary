@@ -14,32 +14,7 @@ I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
 - 💬 I'm open for consultation and discussion.
 - 👯 I'm open for collaboration.
-
-### PPS:
-
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=000000&color=FFFFFF)](https://medium.com/@abdfattahikhsan)
-[![](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)](https://ikhsan.dev)
-
-<!--
-**ikhsanalatsary/ikhsanalatsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsanalatsary&show_icons=true&count_private=true&langs_count=10&layout=compact&exclude_repo=react-boilerplate,pelajaran-dasar-agama-islam,belajar-git,try-react,isyana"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ikhsanalatsary&show_icons=true&count_private=true"/>
-
-#### Area
+- Location
 
 ```geojson
 {
@@ -90,3 +65,27 @@ Here are some ideas to get you started:
   ]
 }
 ```
+
+### PPS:
+
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=000000&color=FFFFFF)](https://medium.com/@abdfattahikhsan)
+[![](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)](https://ikhsan.dev)
+
+<!--
+**ikhsanalatsary/ikhsanalatsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsanalatsary&show_icons=true&count_private=true&langs_count=10&layout=compact&exclude_repo=react-boilerplate,pelajaran-dasar-agama-islam,belajar-git,try-react,isyana"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ikhsanalatsary&show_icons=true&count_private=true"/>
