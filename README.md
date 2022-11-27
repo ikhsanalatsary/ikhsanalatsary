@@ -2,7 +2,7 @@
 
 #### I'm Abdul Fattah Ikhsan
 
-I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia/). I'm also a freelance Full-Stack developer and a course instructor. I currently live in Bekasi Regency, Indonesia, which is famous for its peaceful way of life because it's far enough from the capital. My interests range from technology to programming, which has become my passion. In my free time, I usually read books or manga, watch some movies or dramas on Netflix, and enjoy gardening on my small spaces terrace, as well as sometimes I travel to recharge my mood. Last but not least, if you want to get in touch, feel free to say hi through one of the social links below:
+I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia/). I'm also a freelance Full-Stack developer and a course instructor. I currently live in Bekasi Regency, Indonesia, which is famous for its peaceful way of life because it's far enough from the capital. My interests range from technology to programming, which has become my passion. In my free time, I usually read books or manga, watch some movies or dramas on Netflix, and enjoy gardening on my small spaces terrace, as well as sometimes I travel to recharge my mood. Last but not least, if you want to get in touch, feel free to say hi through one of the social links below, I look forward to hearing from you soon.
 
 [![Gmail](https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:jm5vsisll@mozmail.com?subject=Hi%20there)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-fattah-ikhsan/)
