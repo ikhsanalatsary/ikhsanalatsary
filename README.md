@@ -10,6 +10,14 @@ I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
 [![Twitter](https://img.shields.io/static/v1?style=flat-square&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/abdfattahikhsan/)
 
+#### My Devices
+- [Macbook Pro M1 2020](https://tokopedia.link/s1BMNwSNOvb)
+- [Keyboard external anne pro 2 kailh box white](https://tokopedia.link/omRICv5NOvb) 
+- [Mouse Logitech MX Master 2s](https://tokopedia.link/VA2Cx6nOOvb)
+- [mic fantech leviosa](https://tokopedia.link/PLZSeExOOvb)
+- [earphone Plextine G30](https://tokopedia.link/MZoHuxHOOvb)
+- [Orico WB-7P type-c transparent](https://tokopedia.link/vQFIkb3OOvb)
+- [Orico usb hub transparent](https://tokopedia.link/OcIxB6lPOvb) 
 #### PS:
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
 - 💬 I'm open for consultation and discussion.
