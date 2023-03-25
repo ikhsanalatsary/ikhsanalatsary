@@ -9,6 +9,7 @@ I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 [![Telegram](https://img.shields.io/static/v1?style=flat-square&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/ikhsaan)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
 [![Twitter](https://img.shields.io/static/v1?style=flat-square&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/abdfattahikhsan/)
+[![](https://img.shields.io/badge/trakteer-ikhsan-red/static/v1?style=flat-square&color=red)](https://trakteer.id/ikhsaan/tip?quantity=1)
 
 #### My Devices & accessories
 - [Laptop](https://tokopedia.link/s1BMNwSNOvb)
@@ -311,7 +312,6 @@ I'm a software engineer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 
 ### PPS:
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=000000&color=FFFFFF)](https://medium.com/@abdfattahikhsan)
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)](https://ikhsan.dev)
 
 <!--
