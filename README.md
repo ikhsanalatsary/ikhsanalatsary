@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://social-img.staticblitz.com/viteconf2023-tickets/ikhsanalatsary/viteconf?v=6)
+
 #### I'm Abdul Fattah Ikhsan
 
 I'm a Backend developer at [Wallex Technologies Pte Ltd](https://www.wallex.asia/). I'm also a freelance Full-Stack developer and a course instructor. I currently live in Bekasi Regency, Indonesia, which is famous for its biggest industrial estate in Southeast Asia ([Wikipedia](https://en.wikipedia.org/wiki/Cikarang)), but my house is far enough from the estate. I chose a safe and sound neighbourhood. My interests range from technology to programming, which has become my passion. In my free time, I usually read articles, news, or manga, watch movies or dramas on Netflix, listen to podcasts, and enjoy gardening on my small-space terrace. Sometimes I travel to recharge my mood. Last but not least, if you want to get in touch, feel free to say hi through one of the social links below, I look forward to hearing from you soon.
