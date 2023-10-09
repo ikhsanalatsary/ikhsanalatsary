@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://social-img.staticblitz.com/viteconf2023-tickets/ikhsanalatsary/viteconf?v=6)
+![](https://nextjs.org/conf/ticket/ikhsanalatsary?v=147)
 
 #### I'm Abdul Fattah Ikhsan
 
