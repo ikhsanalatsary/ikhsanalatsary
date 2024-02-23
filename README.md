@@ -6,7 +6,7 @@
 
 I'm a Backend developer at [Wallex Technologies Pte Ltd](https://www.wallex.asia/). I'm also a freelance Full-Stack developer and a course instructor. I currently live in Bekasi Regency, Indonesia, which is famous for its biggest industrial estate in Southeast Asia ([Wikipedia](https://en.wikipedia.org/wiki/Cikarang)), but my house is far enough from the estate. I chose a safe and sound neighbourhood. My interests range from technology to programming, which has become my passion. In my free time, I usually read articles, news, or manga, watch movies or dramas on Netflix, listen to podcasts, and enjoy gardening on my small-space terrace. Sometimes I travel to recharge my mood. Last but not least, if you want to get in touch, feel free to say hi through one of the social links below, I look forward to hearing from you soon.
 
-[![Gmail](https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:jm5vsisll@mozmail.com?subject=Hi%20there)
+[![Gmail](https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:ikhsannetwork@proton.me?subject=Hi%20there)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-fattah-ikhsan/)
 [![Telegram](https://img.shields.io/static/v1?style=flat-square&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/ikhsaan)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
@@ -14,6 +14,8 @@ I'm a Backend developer at [Wallex Technologies Pte Ltd](https://www.wallex.asia
 [![](https://img.shields.io/badge/trakteer-ikhsan-red/static/v1?style=flat-square&color=red)](https://trakteer.id/ikhsaan/tip?quantity=1)
 
 #### My Devices & accessories
+- [TWS](https://shope.ee/8UkZ4DLSLI?share_channel_code=1)
+- [Printer](https://shope.ee/AKCESsGOiS?share_channel_code=1)
 - [Laptop](https://tokopedia.link/s1BMNwSNOvb)
 - [Keyboard](https://tokopedia.link/omRICv5NOvb) 
 - [Mouse](https://tokopedia.link/VA2Cx6nOOvb)
