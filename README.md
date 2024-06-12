@@ -31,8 +31,6 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 
 ### PS:
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
-- 💬 I'm open for consultation and discussion.
-- 👯 I'm open for collaboration.
 <details>
 <summary>Location</summary>
 
