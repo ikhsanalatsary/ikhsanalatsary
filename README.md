@@ -30,6 +30,11 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 - [Minimalist Desk](https://tokopedia.link/OWjWM1vQOvb)
 </details>
 
+### My Notes
+- [As-Sami](https://azure-waterfall-88a.notion.site/As-Sami-Maha-Mendengar-2beb90a8917b4c31b8035b478ed2419c)
+- [Bid'ah](https://azure-waterfall-88a.notion.site/Bab-18-Larangan-Terhadap-Kebid-ahan-dan-perkara-yang-diada-adakan-dalam-agama-9e3b61b9f85b4968a0a38559e6302974)
+- [Nusyrah](https://azure-waterfall-88a.notion.site/Bab-27-Nusyrah-102a5d4920f3800185e2c1e86369925a)
+
 ### PS:
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
 <details>
