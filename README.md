@@ -10,10 +10,10 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-fattah-ikhsan/)
 [![Telegram](https://img.shields.io/static/v1?style=flat-square&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/ikhsaan)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/abdfattahikhsan/)
 [![](https://img.shields.io/badge/trakteer-ikhsan-red/static/v1?style=flat-square&color=red)](https://trakteer.id/ikhsaan/tip?quantity=1)
 
-#### My Devices & accessories
+#### You Don't care about My Devices & accessories
+<details>
 - [TWS](https://shope.ee/8UkZ4DLSLI?share_channel_code=1)
 - [Printer](https://shope.ee/AKCESsGOiS?share_channel_code=1)
 - [Laptop](https://tokopedia.link/s1BMNwSNOvb)
@@ -27,7 +27,8 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 - [Acc 04](https://tokopedia.link/ZuYM04eQOvb) 
 - [Acc 05](https://tokopedia.link/Keu0gP0POvb)
 - [Gaming Chair](https://tokopedia.link/JvNj06oQOvb)
-- [Minimalist Desk](https://tokopedia.link/OWjWM1vQOvb) 
+- [Minimalist Desk](https://tokopedia.link/OWjWM1vQOvb)
+</details>
 
 ### PS:
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
