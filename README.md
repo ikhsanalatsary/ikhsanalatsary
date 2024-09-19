@@ -35,6 +35,9 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 - [Bid'ah](https://azure-waterfall-88a.notion.site/Bab-18-Larangan-Terhadap-Kebid-ahan-dan-perkara-yang-diada-adakan-dalam-agama-9e3b61b9f85b4968a0a38559e6302974)
 - [Nusyrah](https://azure-waterfall-88a.notion.site/Bab-27-Nusyrah-102a5d4920f3800185e2c1e86369925a)
 
+### My Workshop Material
+- [Caltex Riau](https://bloom-chamomile-bf2.notion.site/Building-REST-APIs-with-Nestjs-Framework-3345ea11550e4a6fa395516dc773d4ef)
+
 ### PS:
 - 😄 My nickname is Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Ihsan&op=translate)) or Mas Ikhsan ([pronunciation](https://translate.google.com/?sl=id&tl=en&text=Mas%20Ihsan&op=translate)).
 <details>
