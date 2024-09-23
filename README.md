@@ -33,6 +33,7 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 ### My Notes
 - [As-Sami](https://azure-waterfall-88a.notion.site/As-Sami-Maha-Mendengar-2beb90a8917b4c31b8035b478ed2419c)
 - [Bid'ah](https://azure-waterfall-88a.notion.site/Bab-18-Larangan-Terhadap-Kebid-ahan-dan-perkara-yang-diada-adakan-dalam-agama-9e3b61b9f85b4968a0a38559e6302974)
+- [Jenis Sihir](https://azure-waterfall-88a.notion.site/Bab-25-Macam-macam-Sihir-10aa5d4920f380d9b611f1f98498243e)
 - [Nusyrah](https://azure-waterfall-88a.notion.site/Bab-27-Nusyrah-102a5d4920f3800185e2c1e86369925a)
 
 ### My Workshop Material
