@@ -36,7 +36,8 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 - [Jenis Sihir](https://azure-waterfall-88a.notion.site/Bab-25-Macam-macam-Sihir-10aa5d4920f380d9b611f1f98498243e)
 - [Nusyrah](https://azure-waterfall-88a.notion.site/Bab-27-Nusyrah-102a5d4920f3800185e2c1e86369925a)
 - [Arba'in An-Nawawiyah 10th Hadits](https://azure-waterfall-88a.notion.site/Arba-in-An-Nawawiyah-Hadits-ke-10-10fa5d4920f38028a434e44bd80ad537)
-- [Pelopor Kebaikan atau Keburukan](https://azure-waterfall-88a.notion.site/Bab-19-Pelopor-Kebaikan-atau-Keburukan-12ca5d4920f380608a4af275ce6ae7dd?pvs=4)
+- [Influencer Kebaikan atau Keburukan](https://azure-waterfall-88a.notion.site/Bab-19-Influencer-Kebaikan-atau-Keburukan-12ca5d4920f380608a4af275ce6ae7dd?pvs=4)
+- [Pesimis karena Sesuatu](https://azure-waterfall-88a.notion.site/Bab-28-Tathoyyur-Pesimis-karena-Sesuatu-125a5d4920f380c6aef2fe3cd7bc6846)
 
 ### My Workshop Material
 - [Caltex Riau](https://bloom-chamomile-bf2.notion.site/Building-REST-APIs-with-Nestjs-Framework-3345ea11550e4a6fa395516dc773d4ef)
