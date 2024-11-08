@@ -14,20 +14,16 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 
 #### You Don't Care
 <details>
-- [TWS](https://shope.ee/8UkZ4DLSLI?share_channel_code=1)
-- [Printer](https://shope.ee/AKCESsGOiS?share_channel_code=1)
-- [Laptop](https://tokopedia.link/s1BMNwSNOvb)
-- [Keyboard](https://tokopedia.link/omRICv5NOvb) 
-- [Mouse](https://tokopedia.link/VA2Cx6nOOvb)
-- [Mic](https://tokopedia.link/PLZSeExOOvb)
-- [Earphone](https://tokopedia.link/MZoHuxHOOvb)
-- [Acc 01](https://tokopedia.link/vQFIkb3OOvb)
-- [Acc 02](https://tokopedia.link/OcIxB6lPOvb)
-- [Acc 03]( https://tokopedia.link/rZlN50APOvb)
-- [Acc 04](https://tokopedia.link/ZuYM04eQOvb) 
-- [Acc 05](https://tokopedia.link/Keu0gP0POvb)
-- [Gaming Chair](https://tokopedia.link/JvNj06oQOvb)
-- [Minimalist Desk](https://tokopedia.link/OWjWM1vQOvb)
+<ul>
+<li><a href="https://shope.ee/8UkZ4DLSLI?share_channel_code=1">TWS</a></li>
+<li><a href="https://shope.ee/AKCESsGOiS?share_channel_code=1">Printer</a></li>
+<li><a href="https://tokopedia.link/s1BMNwSNOvb">Laptop</a></li>
+<li><a href="https://tokopedia.link/omRICv5NOvb">Keyboard</a> </li>
+<li><a href="https://tokopedia.link/VA2Cx6nOOvb">Mouse</a></li>
+<li><a href="https://tokopedia.link/PLZSeExOOvb">Mic</a></li>
+<li><a href="https://tokopedia.link/MZoHuxHOOvb">Earphone</a></li>
+<li><a href="https://tokopedia.link/vQFIkb3OOvb">Acc 01</a></li>
+<li><a href="https://tokopedia.link/OcIxB6lPOvb">Acc 02</a>
 </details>
 
 ### My Notes
