@@ -37,6 +37,7 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 - [Muhasabah](https://azure-waterfall-88a.notion.site/Muhasabah-156a5d4920f3805bbeaeeffdd9e0b99c?pvs=4)
 - [Al-Bashir](https://azure-waterfall-88a.notion.site/Al-Bashir-Maha-Melihat-117a5d4920f380258642cef3664b5724?pvs=73)
 - [Al-'Alim](https://azure-waterfall-88a.notion.site/Al-Alim-Yang-Maha-Mengetahui-133a5d4920f380d4ac9aff722dafa2e6?pvs=73)
+- [Al-Fatihah](https://www.notion.so/Dahsyatnya-Hidayah-Sunnah-16ba5d4920f38055b931ee6c849baf06?pvs=4)
 
 ### My Workshop Material
 - [Caltex Riau](https://bloom-chamomile-bf2.notion.site/Building-REST-APIs-with-Nestjs-Framework-3345ea11550e4a6fa395516dc773d4ef)
