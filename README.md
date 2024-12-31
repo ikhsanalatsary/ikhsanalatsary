@@ -12,9 +12,8 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
 [![](https://img.shields.io/badge/trakteer-ikhsan-red/static/v1?style=flat-square&color=red)](https://trakteer.id/ikhsaan/tip?quantity=1)
 
-#### You Don't Care
 <details>
-  <summary>My Device Lists</summary>
+  <summary><h4>You Don't Care</h4></summary>
   <ul>
     <li><a href="https://shope.ee/8UkZ4DLSLI?share_channel_code=1">TWS</a></li>
     <li><a href="https://shope.ee/AKCESsGOiS?share_channel_code=1">Printer</a></li>
