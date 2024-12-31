@@ -28,147 +28,131 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 </details>
 
 ### 17 Rules of Software Engineering
-0. Stop falling in love with your own code.
-   <details>
-     <summary>Key points</summary>
-     <ul>
-       <li> Why: It's easy to become attached to our creations, but code is a tool, not a pet.
-       <li> Action: Be willing to refactor, rewrite, or even discard code if it's not serving its purpose.
-     </ul>
-   </details>
-1. You will regret complexity when on-call.
-   <details open>
-     <summary>Key points</summary>
-     <ul>  
-       <li> Why: Complex systems are harder to understand and troubleshoot, especially when you're facing a critical issue in the middle of the night.
-       <li> Action: Strive for simplicity and clarity in your designs. Break down complex problems into smaller, more manageable ones.
-     </ul>
-   </details>
-2. Everything is a trade-off. There's no "best".
-   <details>
-      <summary>Key points</summary>
-      <ul>
-         <li> Why: There's always a cost to any decision, whether it's time, resources, or maintainability.
-         <li> Action: Be aware of the trade-offs involved in your choices and make informed decisions.
-      </ul>
-   </details>
-3. Every line of code you write is a liability.
-   <details>
-    <summary>Key points</summary>
+
+<details>
+   <summary>0. Stop falling in love with your own code.</summary>
+   <ul>
+     <li> Why: It's easy to become attached to our creations, but code is a tool, not a pet.
+     <li> Action: Be willing to refactor, rewrite, or even discard code if it's not serving its purpose.
+   </ul>
+</details>
+<details open>
+   <summary>1. You will regret complexity when on-call.</summary>
+   <ul>  
+     <li> Why: Complex systems are harder to understand and troubleshoot, especially when you're facing a critical issue in the middle of the night.
+     <li> Action: Strive for simplicity and clarity in your designs. Break down complex problems into smaller, more manageable ones.
+   </ul>
+</details>
+<details>
+  <summary>2. Everything is a trade-off. There's no "best".</summary>
+  <ul>
+     <li> Why: There's always a cost to any decision, whether it's time, resources, or maintainability.
+     <li> Action: Be aware of the trade-offs involved in your choices and make informed decisions.
+  </ul>
+</details>
+<details>
+  <summary>3. Every line of code you write is a liability.</summary>
+  <ul>
+      <li> Why: More code means more potential bugs, more maintenance overhead, and more things to go wrong.
+      <li> Action: Write only the code that's necessary, and be mindful of the impact of your changes.
+  </ul>
+</details>
+<details>
+   <summary>4. Document your decisions and designs.</summary>
+   <ul>
+       <li> Why: Good documentation makes it easier for others to understand your code and for you to remember your own
+           design choices.
+       <li> Action: Write clear and concise documentation, and keep it up-to-date.
+   </ul>
+</details>
+<details>
+  <summary>5. Everyone hates code they didn't write.</summary>
+  <ul>
+     <li> Why: It's human nature to be more critical of things we didn't create.
+     <li> Action: Write clean, well-structured code that's easy to understand.
+  </ul>
+</details>
+<details>
+   <summary>6. Don't use unnecessary dependencies.</summary>
+   <ul>
+       <li> Why: Dependencies can introduce complexity and security risks.
+       <li> Action: Use dependencies only when they're truly needed, and choose them carefully.
+   </ul>
+</details>
+<details open>
+   <summary>7. Coding standards prevent arguments.</summary>
+   <ul>
+       <li> Why: Consistent coding standards make it easier for teams to collaborate and maintain codebases.
+       <li> Action: Establish and follow coding standards within your team.
+   </ul>
+</details>
+<details>
+   <summary>8. Write meaningful commit messages.</summary>
+   <ul>
+       <li> Why: Good commit messages help others understand the purpose of your changes and make it easier to track
+           down bugs.
+       <li> Action: Write clear and concise commit messages that describe the changes you've made.
+   </ul>
+</details>
+<details>
+   <summary>9. Don't ever stop learning new things.</summary>
+   <ul>
+       <li> Why: The field of software engineering is constantly evolving, and it's important to keep up with the
+           latest trends and technologies.
+       <li> Action: Make time for learning new things, whether it's through books, courses, or open-source projects.
+   </ul>
+</details>
+<details>
+    <summary>10. Code reviews spread knowledge.</summary>
     <ul>
-        <li> Why: More code means more potential bugs, more maintenance overhead, and more things to go wrong.
-        <li> Action: Write only the code that's necessary, and be mindful of the impact of your changes.
+        <li> Why: Code reviews are a great way to share knowledge and learn from others.
+        <li> Action: Actively participate in code reviews and be open to feedback.
     </ul>
-   </details>
-4. Document your decisions and designs.
-   <details>
-       <summary>Key points</summary>
-       <ul>
-           <li> Why: Good documentation makes it easier for others to understand your code and for you to remember your own
-               design choices.
-           <li> Action: Write clear and concise documentation, and keep it up-to-date.
-       </ul>
-   </details>
-5. Everyone hates code they didn't write.
-   <details>
-       <summary>Key points</summary>
-       <ul>
-           <li> Why: It's human nature to be more critical of things we didn't create.
-           <li> Action: Write clean, well-structured code that's easy to understand.
-       </ul>
-   </details>
-6. Don't use unnecessary dependencies.
-   <details>
-       <summary>Key points</summary>
-       <ul>
-           <li> Why: Dependencies can introduce complexity and security risks.
-           <li> Action: Use dependencies only when they're truly needed, and choose them carefully.
-       </ul>
-   </details>
-7. Coding standards prevent arguments.
-   <details open>
-       <summary>Key points</summary>
-       <ul>
-           <li> Why: Consistent coding standards make it easier for teams to collaborate and maintain codebases.
-           <li> Action: Establish and follow coding standards within your team.
-       </ul>
-   </details>
-8. Write meaningful commit messages.
-   <details>
-       <summary>Key points</summary>
-       <ul>
-           <li> Why: Good commit messages help others understand the purpose of your changes and make it easier to track
-               down bugs.
-           <li> Action: Write clear and concise commit messages that describe the changes you've made.
-       </ul>
-   </details>
-9. Don't ever stop learning new things.
-   <details>
-       <summary>Key points</summary>
-       <ul>
-           <li> Why: The field of software engineering is constantly evolving, and it's important to keep up with the
-               latest trends and technologies.
-           <li> Action: Make time for learning new things, whether it's through books, courses, or open-source projects.
-       </ul>
-   </details>
-10. Code reviews spread knowledge.
-      <details>
-          <summary>Key points</summary>
-          <ul>
-              <li> Why: Code reviews are a great way to share knowledge and learn from others.
-              <li> Action: Actively participate in code reviews and be open to feedback.
-          </ul>
-      </details>
-11. Always build for maintainability.
-      <details>
-          <summary>Key points</summary>
-          <ul>
-              <li> Why: Maintainable code is easier to understand, modify, and debug.
-              <li> Action: Write clean, well-structured code that's easy to follow. Use meaningful naming conventions and
-                  comments.
-          </ul>
-      </details>
-12. Ask for help when you're stuck.
-      <details>
-        <summary>Key points</summary>
-          <ul>
-              <li> Why: There's no shame in asking for help. Everyone gets stuck sometimes.
-              <li> Action: Don't be afraid to ask your colleagues or mentors for help when you need it.
-          </ul>
-      </details>
-13. Fix root causes, not symptoms.
-      <details>
-          <summary>Key points</summary>
-          <ul>
-              <li> Why: Fixing the underlying problem is the only way to prevent it from happening again.
-              <li> Action: Take the time to investigate the root cause of a bug or issue before implementing a fix.
-          </ul>
-      </details>
-14. Software is never completed.
-      <details>
-          <summary>Key points</summary>
-          <ul>
-              <li> Why: There's always room for improvement, and new features and requirements will always arise.
-              <li> Action: Embrace the fact that software is an ongoing process, and be prepared to make changes as needed.
-          </ul>
-      </details>
-15. Estimates are not promises.
-      <details open>
-          <summary>Key points</summary>
-          <ul>
-              <li> Why: It's difficult to predict how long a task will take, especially in software development.
-              <li> Action: Be realistic about your estimates and be prepared to adjust them as needed.
-          </ul>
-      </details>
-16. Ship early, iterate often.
-      <details open>
-          <summary>Key points</summary>
-          <ul>
-              <li> Why: It's better to release a product early and get feedback from users than to wait until it's "perfect."
-              <li> Action: Don't be afraid to release early and often. Use feedback from users to improve your product over
-                  time.
-          </ul>
-      </details>
+</details>
+<details>
+    <summary>11. Always build for maintainability.</summary>
+    <ul>
+        <li> Why: Maintainable code is easier to understand, modify, and debug.
+        <li> Action: Write clean, well-structured code that's easy to follow. Use meaningful naming conventions and
+            comments.
+    </ul>
+</details>
+<details>
+  <summary>12. Ask for help when you're stuck.</summary>
+    <ul>
+        <li> Why: There's no shame in asking for help. Everyone gets stuck sometimes.
+        <li> Action: Don't be afraid to ask your colleagues or mentors for help when you need it.
+    </ul>
+</details>
+<details>
+    <summary>13. Fix root causes, not symptoms.</summary>
+    <ul>
+        <li> Why: Fixing the underlying problem is the only way to prevent it from happening again.
+        <li> Action: Take the time to investigate the root cause of a bug or issue before implementing a fix.
+    </ul>
+</details>
+<details>
+    <summary>14. Software is never completed.</summary>
+    <ul>
+        <li> Why: There's always room for improvement, and new features and requirements will always arise.
+        <li> Action: Embrace the fact that software is an ongoing process, and be prepared to make changes as needed.
+    </ul>
+</details>
+<details open>
+    <summary>15. Estimates are not promises.</summary>
+    <ul>
+        <li> Why: It's difficult to predict how long a task will take, especially in software development.
+        <li> Action: Be realistic about your estimates and be prepared to adjust them as needed.
+    </ul>
+</details>
+<details open>
+    <summary>16. Ship early, iterate often.</summary>
+    <ul>
+        <li> Why: It's better to release a product early and get feedback from users than to wait until it's "perfect."
+        <li> Action: Don't be afraid to release early and often. Use feedback from users to improve your product over
+            time.
+    </ul>
+</details>
 
 ### My Notes
 - [As-Sami](https://azure-waterfall-88a.notion.site/As-Sami-Maha-Mendengar-2beb90a8917b4c31b8035b478ed2419c)
