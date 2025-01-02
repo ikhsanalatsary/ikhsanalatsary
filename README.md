@@ -24,6 +24,7 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
     <li><a href="https://tokopedia.link/MZoHuxHOOvb">Earphone</a></li>
     <li><a href="https://tokopedia.link/vQFIkb3OOvb">Acc 01</a></li>
     <li><a href="https://tokopedia.link/OcIxB6lPOvb">Acc 02</a>
+      <li><a href="https://s.shopee.co.id/3q77yUWkVn?share_channel_code=1">Coding for kids</a></li>
 </details>
 
 ### 17 Rules of Software Engineering
