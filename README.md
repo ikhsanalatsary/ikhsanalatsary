@@ -9,7 +9,6 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 [![Gmail](https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:contact_me@ikhsan.dev?subject=Hi%20there)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-fattah-ikhsan/)
 [![Telegram](https://img.shields.io/static/v1?style=flat-square&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/ikhsaan)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikhsan_dev/)
 [![](https://img.shields.io/badge/trakteer-ikhsan-red/static/v1?style=flat-square&color=red)](https://trakteer.id/ikhsaan/tip?quantity=1)
 
 <details>
