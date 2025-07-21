@@ -167,6 +167,7 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 - [Al-Fatihah](https://www.notion.so/Dahsyatnya-Hidayah-Sunnah-16ba5d4920f38055b931ee6c849baf06?pvs=4)
 - [Al-Lathif, Al-Khabir](https://azure-waterfall-88a.notion.site/Al-Lathief-Al-Khabir-172a5d4920f38043bf00c25e165bad18?pvs=4)
 - [Al’Affuw, AlGhoffur, AtTawwab](https://azure-waterfall-88a.notion.site/Al-Affuw-AlGhoffur-AtTawwab-18ea5d4920f3800d8978c7b03f841002?pvs=4)
+- [Mengapa Saya ingin belajar Bahasa Arab](https://app.capacities.io/home/6fd7bda2-fa2e-4677-9351-a9faaf0d2213)
 
 ### My Workshop Material
 - [Caltex Riau](https://bloom-chamomile-bf2.notion.site/Building-REST-APIs-with-Nestjs-Framework-3345ea11550e4a6fa395516dc773d4ef)
