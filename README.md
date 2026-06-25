@@ -154,10 +154,9 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 </details>
 
 ### My Notes
+- [Tawheed](https://azure-waterfall-88a.notion.site/Tauhid-102a5d4920f38021addecd23b2b35ef1)
 - [As-Sami](https://azure-waterfall-88a.notion.site/As-Sami-Maha-Mendengar-2beb90a8917b4c31b8035b478ed2419c)
 - [Innovation in Islam](https://azure-waterfall-88a.notion.site/Bab-18-Larangan-Terhadap-Kebid-ahan-dan-perkara-yang-diada-adakan-dalam-agama-9e3b61b9f85b4968a0a38559e6302974)
-- [Jenis Sihir](https://azure-waterfall-88a.notion.site/Bab-25-Macam-macam-Sihir-10aa5d4920f380d9b611f1f98498243e)
-- [Nusyrah](https://azure-waterfall-88a.notion.site/Bab-27-Nusyrah-102a5d4920f3800185e2c1e86369925a)
 - [Arba'in An-Nawawiyah 10th Hadits](https://azure-waterfall-88a.notion.site/Arba-in-An-Nawawiyah-Hadits-ke-10-10fa5d4920f38028a434e44bd80ad537)
 - [Influencer Kebaikan atau Keburukan](https://azure-waterfall-88a.notion.site/Bab-19-Influencer-Kebaikan-atau-Keburukan-12ca5d4920f380608a4af275ce6ae7dd?pvs=4)
 - [Pesimis karena Sesuatu](https://azure-waterfall-88a.notion.site/Bab-28-Tathoyyur-Pesimis-karena-Sesuatu-125a5d4920f380c6aef2fe3cd7bc6846)
