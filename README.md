@@ -154,6 +154,7 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 </details>
 
 ### My Notes
+- [Deep Understanding Allah's Names]( l(https://azure-waterfall-88a.notion.site/Fiqih-Asmaul-Husna-d9cf569b17784dc2a3faf83bba758ca9)
 - [Tawheed](https://azure-waterfall-88a.notion.site/Tauhid-102a5d4920f38021addecd23b2b35ef1)
 - [As-Sami](https://azure-waterfall-88a.notion.site/As-Sami-Maha-Mendengar-2beb90a8917b4c31b8035b478ed2419c)
 - [Innovation in Islam](https://azure-waterfall-88a.notion.site/Bab-18-Larangan-Terhadap-Kebid-ahan-dan-perkara-yang-diada-adakan-dalam-agama-9e3b61b9f85b4968a0a38559e6302974)
