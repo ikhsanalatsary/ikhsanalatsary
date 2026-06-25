@@ -154,19 +154,14 @@ I'm a Senior full-stack developer at [Wallex Technologies Pte Ltd](https://www.w
 </details>
 
 ### My Notes
-- [Deep Understanding Allah's Names]( l(https://azure-waterfall-88a.notion.site/Fiqih-Asmaul-Husna-d9cf569b17784dc2a3faf83bba758ca9)
+- [Deep Understanding Allah's Names](https://azure-waterfall-88a.notion.site/Fiqih-Asmaul-Husna-d9cf569b17784dc2a3faf83bba758ca9)
 - [Tawheed](https://azure-waterfall-88a.notion.site/Tauhid-102a5d4920f38021addecd23b2b35ef1)
-- [As-Sami](https://azure-waterfall-88a.notion.site/As-Sami-Maha-Mendengar-2beb90a8917b4c31b8035b478ed2419c)
 - [Innovation in Islam](https://azure-waterfall-88a.notion.site/Bab-18-Larangan-Terhadap-Kebid-ahan-dan-perkara-yang-diada-adakan-dalam-agama-9e3b61b9f85b4968a0a38559e6302974)
 - [Arba'in An-Nawawiyah 10th Hadits](https://azure-waterfall-88a.notion.site/Arba-in-An-Nawawiyah-Hadits-ke-10-10fa5d4920f38028a434e44bd80ad537)
 - [Influencer Kebaikan atau Keburukan](https://azure-waterfall-88a.notion.site/Bab-19-Influencer-Kebaikan-atau-Keburukan-12ca5d4920f380608a4af275ce6ae7dd?pvs=4)
 - [Pesimis karena Sesuatu](https://azure-waterfall-88a.notion.site/Bab-28-Tathoyyur-Pesimis-karena-Sesuatu-125a5d4920f380c6aef2fe3cd7bc6846)
 - [Muhasabah](https://azure-waterfall-88a.notion.site/Muhasabah-156a5d4920f3805bbeaeeffdd9e0b99c?pvs=4)
-- [Al-Bashir](https://azure-waterfall-88a.notion.site/Al-Bashir-Maha-Melihat-117a5d4920f380258642cef3664b5724?pvs=73)
-- [Al-'Alim](https://azure-waterfall-88a.notion.site/Al-Alim-Yang-Maha-Mengetahui-133a5d4920f380d4ac9aff722dafa2e6?pvs=73)
 - [Al-Fatihah](https://www.notion.so/Dahsyatnya-Hidayah-Sunnah-16ba5d4920f38055b931ee6c849baf06?pvs=4)
-- [Al-Lathif, Al-Khabir](https://azure-waterfall-88a.notion.site/Al-Lathief-Al-Khabir-172a5d4920f38043bf00c25e165bad18?pvs=4)
-- [Al’Affuw, AlGhoffur, AtTawwab](https://azure-waterfall-88a.notion.site/Al-Affuw-AlGhoffur-AtTawwab-18ea5d4920f3800d8978c7b03f841002?pvs=4)
 - [Mengapa Saya ingin belajar Bahasa Arab](https://app.capacities.io/home/6fd7bda2-fa2e-4677-9351-a9faaf0d2213)
 
 ### My Workshop Material
